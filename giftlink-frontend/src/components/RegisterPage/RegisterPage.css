@@ -1,0 +1,23 @@
+.register-card {
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.register-card h2 {
+    color: #333;
+}
+
+.form-control {
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.btn-primary {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.text-primary {
+    text-decoration: none;
+}
